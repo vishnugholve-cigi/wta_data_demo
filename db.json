@@ -1,0 +1,70 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "position": "Batsman",
+      "team": "Royal Challengers Bangalore",
+      "nationality": "Indian",
+      "age": 33,
+      "matches_played": 340,
+      "runs": 12000,
+      "average": 54.8,
+      "strike_rate": 138.5,
+      "contract_value": "1700000"
+    },
+    {
+      "id": 2,
+      "name": "Kane Williamson",
+      "position": "Batsman",
+      "team": "Sunrisers Hyderabad",
+      "nationality": "New Zealand",
+      "age": 31,
+      "matches_played": 280,
+      "runs": 9800,
+      "average": 47.3,
+      "strike_rate": 129.7,
+      "contract_value": "1400000"
+    },
+    {
+      "id": 3,
+      "name": "Jasprit Bumrah",
+      "position": "Bowler",
+      "team": "Mumbai Indians",
+      "nationality": "Indian",
+      "age": 28,
+      "matches_played": 190,
+      "wickets": 240,
+      "economy": 6.8,
+      "best_figures": "5/12",
+      "contract_value": "1500000"
+    },
+    {
+      "id": 4,
+      "name": "Jos Buttler",
+      "position": "Wicketkeeper-Batsman",
+      "team": "Rajasthan Royals",
+      "nationality": "English",
+      "age": 32,
+      "matches_played": 210,
+      "runs": 7500,
+      "dismissals": 180,
+      "average": 42.6,
+      "strike_rate": 150.2,
+      "contract_value": "1300000"
+    },
+    {
+      "id": 5,
+      "name": "Rashid Khan",
+      "position": "Bowler",
+      "team": "Gujarat Titans",
+      "nationality": "Afghan",
+      "age": 24,
+      "matches_played": 170,
+      "wickets": 210,
+      "economy": 6.2,
+      "best_figures": "4/9",
+      "contract_value": "1600000"
+    }
+  ]
+}
